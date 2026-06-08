@@ -5,17 +5,17 @@ This project visualizes the population distribution of India by age groups (2022
 The goal is to understand how population is distributed across different age categories.
 
 🎯 Objective
-To visualize categorical data using a bar chart.
-To understand age-wise population distribution.
-To present data clearly using colors and labels.
+1.To visualize categorical data using a bar chart.
+2.To understand age-wise population distribution.
+3.To present data clearly using colors and labels.
 
 📂 Dataset
 Source: Public demographic statistics
 Data Type: Categorical (Age Groups)
 Categories:
-0–14 years
-15–64 years
-65+ years
+1.0–14 years
+2.15–64 years
+3.65+ years
 
 ⚙️ Technologies Used
 🐍 Python – Used for writing the program and handling logic
@@ -23,9 +23,9 @@ Categories:
 
 📊 Data Description
 The dataset represents percentage distribution of India’s population across three major age groups:
-0–14 years (Young population)
-15–64 years (Working population)
-65+ years (Elderly population)
+1.0–14 years (Young population)
+2.15–64 years (Working population)
+3.65+ years (Elderly population)
 
 🔍 Key Insights
 Majority of the population (~68%) falls under the working-age group (15–64)
@@ -34,11 +34,11 @@ Only ~7% are in the elderly category (65+)
 Indicates that India has a young and growing workforce
 
 📁 Project Structure
-population_project
-├── main.py
-├── README.md
-├── requirements.txt
-└── output.png
+population_project:
+  1.main.py
+  2.README.md
+  3.requirements.txt
+  4.output.png
 
 👩‍💻 Author
 Gopika R

@@ -1,0 +1,13 @@
+📊 ✅ Dataset Used:
+
+The dataset used in this project is a manually defined dataset representing the percentage distribution of India’s population by age groups in 2022.
+
+The data is based on publicly available demographic statistics and includes three categories:
+
+*0–14 years*
+  
+*15–64 years*
+  
+*65+ years*
+
+These values are used to demonstrate data visualization techniques using a bar chart.

@@ -3,7 +3,7 @@
 📌 Project Overview
 
 This project visualizes the population distribution of India by age groups (2022) using a colorful bar chart.
-The goal is to understand how population is distributed across different age categories.
+The goal is to understand how population is distributed across different age categories..
 
 🎯 Objective
 

@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Data
+# Data used
 age_groups = ['0-14', '15-64', '65+']
 population = [25.3, 67.8, 6.9]
 
